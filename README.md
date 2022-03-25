@@ -6,7 +6,7 @@ Paraphrasing tools and papers
 
 - **main.py**: execution of paraphrasing functions
 
-- **paraphrasing_generation.py**: definition of paraphrasing funcions
+- **paraphrasing_generation.py**: definition of paraphrasing functions
 
 ### Resources
 

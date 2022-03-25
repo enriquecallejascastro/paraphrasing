@@ -1,15 +1,19 @@
-# Paraphrasing
+### Paraphrasing
 Paraphrasing tools and papers
 
 
-# Code
+### Code
 
 - **main.py**: execution of paraphrasing functions
 
 - **paraphrasing_generation.py**: definition of paraphrasing funcions
 
-# Resources
+### Resources
 
 - **resources_list**: text document with paraphrasing bibliography
 
 - **+papers**: .pdf documents with paraphrasing papers 
+
+### Contact
+
+enriquecallejascastro@gmail.com

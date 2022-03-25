@@ -12,7 +12,7 @@ Paraphrasing tools and papers (under development)
 
 - **resources_list**: text document with paraphrasing bibliography
 
-- **+papers**: .pdf documents with paraphrasing papers 
+- **+papers**: paraphrasing papers (.pdf)
 
 ### Contact
 

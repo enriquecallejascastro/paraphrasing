@@ -1,5 +1,5 @@
 ### Paraphrasing
-Paraphrasing tools and papers
+Paraphrasing tools and papers (under development)
 
 
 ### Code

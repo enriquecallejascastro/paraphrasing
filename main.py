@@ -9,5 +9,3 @@ context = "The highlight of this study is that the same light-weight model train
 from_list2paragraph(context)
 
 
-print('hello')
-

@@ -1,0 +1,7 @@
+## Resources
+
+- Dong, Q., Wan, X., & Cao, Y. (2021). ParaSCI: A large scientific paraphrase dataset for longer paraphrase generation.
+*arXiv preprint arXiv*:2101.08382.
+
+- Palivela, H. (2021). Optimization of paraphrase generation and identification using language models in natural language processing.
+*International Journal of Information Management Data Insights, 1*(2), 100025.

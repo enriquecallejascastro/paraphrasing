@@ -1,6 +1,4 @@
 # Loading libraries
-
-import timeit
 import torch
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from sentence_splitter import SentenceSplitter, split_text_into_sentences

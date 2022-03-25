@@ -1,0 +1,3 @@
+## Resources
+
+- Dong, Q., Wan, X., & Cao, Y. (2021). ParaSCI: A large scientific paraphrase dataset for longer paraphrase generation. *arXiv preprint arXiv*:2101.08382.
